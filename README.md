@@ -33,7 +33,7 @@ By working through this project, you'll understand:
 ### 1. Clone and Setup
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Sayeed-H/QUIC-Protocol
 cd quic-learning-lab
 go mod init quic-learning-lab
 go get github.com/quic-go/quic-go
@@ -59,7 +59,7 @@ You should see:
 ## 📋 Project Structure
 
 ```
-quic-learning-lab/
+QUIC-Portocol/
 ├── server.go              # Basic QUIC echo server
 ├── client.go              # Sequential stream client
 ├── concurrent_client.go   # Concurrent stream demonstration
